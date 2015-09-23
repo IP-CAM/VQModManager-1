@@ -1,0 +1,9 @@
+/.idea
+/.vagrant
+/nbproject
+/upload/*
+!/upload/admin/controller/module/vqmod_manager.php
+!/upload/admin/language/english/module/vqmod_manager.php
+!/upload/admin/view/stylesheet/vqmod_manager.css
+!/upload/admin/view/template/module/vqmod_manager.tpl
+!/upload/vqmod/xml/vqmm_menu_shortcut.xml
